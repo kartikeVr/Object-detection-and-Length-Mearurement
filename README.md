@@ -64,7 +64,7 @@ Here's a brief overview of the main files in this project:
 
 ## 🖼️ Example Output
 
-![Example Output](path_to_example_image.png)
+<img src="/image.png" width="200" height="200">
 
 ## ⚙️ Customization
 
