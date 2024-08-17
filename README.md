@@ -26,9 +26,9 @@ This project utilizes the following technologies:
 
 Here's a brief overview of the main files in this project:
 
-- **`detector.py`**: The main script containing the `Detector` class, which includes methods for reading classes, downloading the model, loading the model, and processing images or videos.
-- **`test1.py`**: A helper script containing utility functions for image warping, contour detection, and point reordering.
-- **`requirements.txt`**: A file listing the required Python libraries to run the project.
+- `detector.py `👁️: The main script containing the `Detector` class, which includes methods for reading classes, downloading the model, loading the model, and processing images or videos.
+- `Helper.py `👤: A helper script containing utility functions for image warping, contour detection, and point reordering.
+- `requirements.txt `📋: A file listing the required Python libraries to run the project.
 
 ## 📝 How to Use
 
