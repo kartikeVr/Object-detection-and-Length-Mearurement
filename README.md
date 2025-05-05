@@ -64,7 +64,7 @@ Here's a brief overview of the main files in this project:
 
 ## 🖼️ Example Output
 
-<img src="/image.png" width="200" height="200">
+https://github.com/user-attachments/assets/b70e1c1a-2e33-4df9-8b40-2a340275be4a
 
 ## ⚙️ Customization
 
